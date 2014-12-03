@@ -3819,7 +3819,7 @@ button.menu-button {
   color: #fff
 }
 button.menu-button:hover {
-  background-color: #39c492 ;
+  background-color: #7639C4 ;
   color: #fff
   box-shadow: rgba(0,0,0,0.2) 0 0 0 3px;
 }
@@ -3862,11 +3862,11 @@ a#slide{
     }
 
 a#slide:hover{
-    background:#39c492
+    background:#7639C4
     }
 
 a#slide:after{
-    content:"F"
+    content:"B"
     }
 
 a#slide.slide:after{

@@ -395,10 +395,10 @@ blockquote:before {
   color: #807f83;
 }
 .post-subhead {
-  color: #000; 
+  color: #6F6F6F; 
   font-family: "微软雅黑", light;
   font-style:italic;
-  font-size: 34px;
+  font-size: 20px;
   text-align: center;
 }
 .post-info {
@@ -763,13 +763,13 @@ html {
 /* THEME FONTS */
 /* ----------- */
 body {
-  font-family: '微软雅黑', serif;
+  font-family: '微软雅黑';
 }
 body input,
 body textarea,
 body .btn,
 body button {
-  font-family: '微软雅黑', serif;
+  font-family: '微软雅黑';
 }
 .lighter {
   font-weight: 200 !important;

@@ -1,9 +1,9 @@
 title:            Westside
 description:      新地球
-logo:             omikron.png
+logo:             logo.png
 disqus_shortname: XingE Ban
 # Assign a default image for your site's header and footer
-default_bg:       default_bg1.jpg
+default_bg:       default_bg.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -22,22 +22,22 @@ url:       		   /Westside
 
 # Owner/author information
 owner:
-  name:           Boukyaku
+  name:           XingE Ban
   avatar:         XingEBan.jpg
   email:          XingE.Ban@live.cn
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    XingE Ban a fress designer who is found of drawing, music and animation.
+  description:    XingE Ban is a fress designer who is found of drawing, music and animation.
   # Social networking links used in footer. Update and remove as you like.
   twitter:        XingEBan
-  facebook:       王帅
+  facebook:       xinge.ban
   github:         Boukyaku
-  stackexchange:  
-  linkedin:       
+  linkedin:       cn.linkedin.com/pub/xinge-ban/90/b26/524/
+  weibo:          weibo.com/gumenou
   instagram:      
   flickr:         
   tumblr:         
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
+  google_plus:    https://plus.google.com/u/0/100431047472067651648
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   UA-39365944-7
@@ -59,7 +59,7 @@ links:
   - title: 标签
     url: /tags
   - title: 关于
-    url: /XingE Ban
+    url: /XingEBan
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai

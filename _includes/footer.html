@@ -23,9 +23,9 @@
                     <i class="icon-google-plus"></i>
                 </a>
             </li>{% endif %}
-            {% if site.owner.stackexchange %}<li>
-                <a href="{{ site.owner.stackexchange }}" data-toggle="tooltip" title="{{ site.owner.name}} on StackExchange" target="_blank">
-                    <i class="icon-stackexchange"></i>
+            {% if site.owner.weibo %}<li>
+                <a href="{{ site.owner.weibo }}" data-toggle="tooltip" title="{{ site.owner.name}} on weibo" target="_blank">
+                    <i class="icon-weibo"></i>
                 </a>
             </li>{% endif %}
             {% if site.owner.linkedin %}<li>
@@ -50,7 +50,7 @@
             </li>{% endif %}
         </ul>
             <div>
-                <a href="{{ site.url }}/about/">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved.
+                <a href="{{ site.url }}/about/">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved
             </div>
             <ul class="menu-items">
             {% for link in site.links %}
@@ -62,7 +62,9 @@
                 {% endif %} 
             </li>
             {% endfor %}
+            <!--
             <li><a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="icon-rss"></i> Feed</a></li>
+            -->
         </ul>
         </div>
     </div>

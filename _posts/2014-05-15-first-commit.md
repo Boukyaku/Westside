@@ -1,12 +1,12 @@
 ---
 layout: post
-title: First Commit
-description: "Its ON, baby"
-headline: "Let's Fire up the Engines"
+title: 许久未见
+description: "好久不见 不如不见"
+headline: "新地球"
 categories: personal
 tags: 
-  - blogging
-  - jekyll
+  - 杂项
+  - 建站日志
 image: 
   feature: "website-speed.jpg"
   credit: spreadeffect.com
@@ -17,9 +17,10 @@ featured: true
 published: true
 ---
 
->&quot;The beginning is the most important part of the work.&quot;
-><small><cite title="Plato">Plato</cite></small>
+>&quot;新地球 永远回不到 那一年 那年 别遗忘的小岛&quot;
+><small><cite title="JJ 新地球">JJ 新地球</cite></small>
 
+写东西变得越来越累人了。
 I have been away from the blogging scene for quite a while now, suddenly today it dawned upon me that I need to start writing/posting again. My writing is a little bit rusty now, and I need to brush on that. Anyways, the moment I thought about blogging, Wordpress flashed in my mind. Well, I used Wordpress [^1] in the past and it worked well for a while, then I had to face issues like high-traffic and high CPU load and unexpected spikes in my server. Well, those weren’t too much trouble, I would avoid fixing those bugs if I was busy, and sometimes I would leave the system untouched for 2 days straight and let the server admins frown and try to mitigate the outage (I had a pretty straight forward deal with my hosting provider, that no matter what, they can’t shut down my website). The PHP runtime errors weren’t a big deal, the hundreds of thousands of SQL database queries weren’t a trouble, sometimes the site would run a tad bit slower than average, but it was OK overall for me. A sample of the emails I would receive from my hosting provider is given below:
 
     tickets@hostgator.com

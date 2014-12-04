@@ -1,14 +1,14 @@
 ---
 layout: page
 permalink: /hossain-mohd-faysal/index.html
-title: Hossain Mohd Faysal
-tags: [Hossain, Mohd, Faysal, hmfaysal]
+title: XingE Ban
+tags: [XingE Ban, Boukyaku]
 image:
-  feature: Hossain-Mohd-Faysal.jpg
+  feature: XingEBan.jpg
 ---
 <figure>
-  <img src="{{ site.url }}/images/hossain-faysal.jpg" alt="Hossain Mohammad Faysal">
-  <figcaption>Hossain Mohammad Faysal</figcaption>
+  <img src="{{ site.url }}/images/XingEBan.jpg" alt="XingE Ban">
+  <figcaption>XingE Ban</figcaption>
 </figure>
 
 >Entrepreneur

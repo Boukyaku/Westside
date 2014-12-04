@@ -394,6 +394,13 @@ blockquote:before {
 .post-title {
   color: #807f83;
 }
+.post-subhead {
+  color: #000; 
+  font-family: "微软雅黑", light;
+  font-style:italic;
+  font-size: 34px;
+  text-align: center;
+}
 .post-info {
   color: #67666a;
 }
@@ -480,6 +487,7 @@ html {
   display: block;
 }
 .blog-description {
+  font-family: "微软雅黑"；
   text-transform: none;
   padding-top: 12px;
   margin-top: 12px;
@@ -3897,7 +3905,7 @@ a#slide.slide:after{
 
 #sidebar h2{
     margin:0 0 16px !important;
-    font:900 16px/1em "Lato",sans-serif;
+    font:300 16px/1em "微软雅黑";
     color:#fff;
     }
 
@@ -3921,7 +3929,7 @@ a#slide.slide:after{
 
 #sidebar #navigation li a{
     padding:0 0 18px;
-    font:700 16px/1em "Cambria";
+    font:300 16px/1em "微软雅黑";
     text-transform: uppercase;;
     color:#b3b3b1
     }

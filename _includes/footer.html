@@ -24,7 +24,7 @@
                 </a>
             </li>{% endif %}
             {% if site.owner.weibo %}<li>
-                <a href="{{ site.owner.weibo }}" data-toggle="tooltip" title="{{ site.owner.name}} on weibo" target="_blank">
+                <a href="http://weibo.com/{{ site.owner.weibo }}" data-toggle="tooltip" title="{{ site.owner.name}} on Weibo" target="_blank">
                     <i class="icon-weibo"></i>
                 </a>
             </li>{% endif %}
@@ -43,11 +43,13 @@
                     <i class="icon-flickr"></i>
                 </a>
             </li>{% endif %}
+            <!--
             {% if site.owner.github %}<li>
                 <a href="http://github.com/{{ site.owner.github }}" data-toggle="tooltip" title="{{ site.owner.name}} on Github" target="_blank">
                     <i class="icon-github"></i>
                 </a>
             </li>{% endif %}
+            -->
         </ul>
             <div>
                 <a href="{{ site.url }}/about/">{{ site.owner.name }}</a> &copy; {{ site.time | date: '%Y' }} &bull; All rights reserved

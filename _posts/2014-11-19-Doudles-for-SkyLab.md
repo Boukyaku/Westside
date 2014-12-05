@@ -5,7 +5,7 @@ title: "Doudles for SkyLab"
 description: "近来拿SkyLab练手的几张平面作品"
 category: 相册
 tags: [SkyLab, 图片, 相册, 作品]
-imagefeature: Photo_3.jpg
+imagefeature: SkyLab2014_Wallpaper_2.jpg
 comments: true
 mathjax: 
 ---

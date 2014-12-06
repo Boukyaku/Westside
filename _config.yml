@@ -43,7 +43,9 @@ owner:
 google_analytics:   UA-39365944-7
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+bing_verify:  
+#### Analytics  
+cnzz: true  
 
 # Links to include in footer navigation
 # For external links add external: true

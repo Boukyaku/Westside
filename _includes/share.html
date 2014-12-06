@@ -15,11 +15,38 @@
                 <i class="icon-facebook"></i>
             </a>
         </li>
+        <!--
         <li>
             <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}"
            onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;" data-toggle="tooltip" title="Share on Google plus" itemprop="GooglePlus">
                 <i class="icon-google-plus"></i>
             </a>
         </li>
+        -->
+        <li>
+            <a href="javascript:(function(){window.open('http://v.t.sina.com.cn/share/share.php?title='+encodeURIComponent(document.title)+'&url='+encodeURIComponent(location.href)+'&source=bookmark','_blank','width=450,height=400');})()" data-toggle="tooltip" title="" itemprop="Weibo" data-original-title="分享到新浪微博">
+                <i class="icon-weibo"></i>
+            </a>
+        </li>
+        <li>
+            <!-- JiaThis Button BEGIN -->
+            <div class="jiathis_style">
+            <a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" onclick="window.open(this.href, 'more-share','width=620,height=340');return false;" target="_blank" data-toggle="tooltip" title="" itemprop="expand-alt" data-original-title="分享到更多">
+                <i class="icon-expand-alt"></i>
+            </a>
+            </div>
+            <script type="text/javascript" >
+            var jiathis_config={
+                siteNum:15,
+                sm:"qzone,weixin,renren,email,tieba,huaban,ydnote,qq,print,cqq,kaixin001,xianguo,linkedin,douban,yixin",
+                summary:"",
+                shortUrl:false,
+                hideMore:true
+            }
+            </script>
+            <script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+            <!-- JiaThis Button END -->
+        </li>
+    </ul>
     </ul>
 </div>

@@ -47,6 +47,12 @@ bing_verify:
 #### Analytics  
 cnzz: true  
 
+# duoshuo comments
+comments :
+  provider : duoshuo
+  duoshuo : 
+    short_name : xinge-ban
+
 # Links to include in footer navigation
 # For external links add external: true
 links:

@@ -26,7 +26,7 @@ owner:
   avatar:         XingEBan.jpg
   email:          XingE.Ban@live.cn
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    XingE Ban is a fress designer who is found of drawing, music and animation.
+  description:    正在成为UI设计师的路上，同时也在学习关于UX的一切。偶尔会躲起来发呆、吃东西，最近吐槽越来越少，想要长胖，喜欢听音乐，射手座。
   # Social networking links used in footer. Update and remove as you like.
   twitter:        XingEBan
   facebook:       xinge.ban
@@ -46,12 +46,6 @@ google_verify:
 bing_verify:  
 #### Analytics  
 cnzz: true  
-
-# duoshuo comments
-comments :
-  provider : duoshuo
-  duoshuo : 
-    short_name : xinge-ban
 
 # Links to include in footer navigation
 # For external links add external: true

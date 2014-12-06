@@ -1,7 +1,7 @@
 title:            Westside
 description:      新地球
 logo:             logo.png
-disqus_shortname: XingE Ban
+duoshuo_shortname: xinge-ban
 # Assign a default image for your site's header and footer
 default_bg:       default_bg.jpg
 search:           true

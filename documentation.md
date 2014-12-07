@@ -6,8 +6,7 @@ description: "Instructions on how to install and customize the Westside."
 tags: [XingE Ban, Boukyaku, 建站日志]
 image: 
   feature: default_bg1.jpg
-
-##
+---
 
 版本：1.4.2.2
 

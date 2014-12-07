@@ -54,14 +54,14 @@ links:
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> 记录
+  - title: 更新
     url: /documentation
   - title: 分类
     url: /categories
   - title: 标签
     url: /tags
   - title: 关于
-    url: /XingEBan
+    url: /xinge-ban
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Asia/Shanghai

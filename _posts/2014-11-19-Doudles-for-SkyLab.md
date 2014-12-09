@@ -9,7 +9,7 @@ imagefeature: SkyLab2014_Wallpaper_2.jpg
 comments: true
 mathjax: 
 ---
-自SkyLab的2014纳新至今部分作品，由Ps和Ai制作，包括宣传单、桌面壁纸、Logo以及10周年邀请函，话说SlyLab的确是极佳的练手题材呢^_~
+自SkyLab的2014纳新至今部分作品，由Ps和Ai制作，包括宣传单、桌面壁纸、Logo以及10周年邀请函，话说SkyLab的确是极佳的练手题材呢^_~
 
 <figure class="third">
 	<a href="{{ site.url }}/images/gallery1/Photo_1.jpg"><img src="{{ site.url }}/images/gallery1/Photo_1m.jpg"></a>

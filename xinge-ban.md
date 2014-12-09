@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Westside/index.html
+permalink: /xinge-ban/index.html
 title: XingE Ban
 tags: [XingE Ban, Boukyaku]
 image:

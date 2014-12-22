@@ -6,6 +6,7 @@ duoshuo_shortname: xinge-ban
 default_bg:       default_bg.jpg
 search:           true
 share:            true
+top:              true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
 readtime:         true
 # Specify the average Words per minute. If not defined, 180 will be used

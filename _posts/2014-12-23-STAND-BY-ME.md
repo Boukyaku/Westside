@@ -23,7 +23,7 @@ share: true
 多啦A梦终究要离开，为了证明自己不依靠多啦A梦，在被欺负的时候也能自己应付，大雄独自一人面对胖虎被打到不成人形依然坚持直到胖虎认输。“我要是没法靠自己的力量赢你的话，多啦A梦就没法安心地回去啊。”
 
 <figure>
-	<img src="{{ site.url }}/images/standbyme(2).jpg">
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pKhrVSzoXxv-P9F0TLQK0G36yhlUVa0ChreajGpa2V7e4Zpmw6QnemZs_xYFv70iSuj7DxOGO5yTcOFglz8BShf2x0ONcWOxRZggKD-2lmi84wCZnlnG4pidsxxCz9-Gau5vz4t8JLzx3NaYB4cVPKw/standbyme%282%29.jpg?psid=1">
 </figure>
 
 最后一晚，多啦A梦守在熟睡的大雄身边，那么一个让他不放心的大雄，那么一个让他牵肠挂肚的大雄。希望你永远记得我。希望你忘了我。

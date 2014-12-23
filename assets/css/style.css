@@ -3847,6 +3847,7 @@ body {
 
 /*      End-Setting     */
 
+
 a#slide{
     position:fixed;
     display:block;
@@ -4060,21 +4061,11 @@ body.slide{
 /*       Back to Top        */
 
 
-.cd-container {
-  width: 90%;
-  max-width: 768px;
-  height:3000px;
-  margin: 2em auto;
-  display:block
+a.cd-top{
+    color: #B64BCB;
+    text-decoration: none;
 }
-.cd-container::after {
-  /* clearfix */
-  content: '';
-  display: table;
-  clear: both;
-}
-
-.cd-top {
+a#cd-top {
   display: inline-block;
   height: 40px;
   width: 40px;
@@ -4099,7 +4090,6 @@ body.slide{
   opacity: 1;
 }
 .cd-top.cd-fade-out {
-  /* Èç¹ûÓÃ»§¼ÌÐøÏòÏÂ¹ö¶¯,Õâ¸ö°´Å¥µÄÍ¸Ã÷¶È»á±äµÃ¸üµÍ */
   opacity: .5;
 }
 .no-touch .cd-top:hover {

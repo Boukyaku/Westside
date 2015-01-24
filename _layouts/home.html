@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:wb="http://open.weibo.com/wb"><!--Sina share 在HTML标签中增加XML命名空间-->
+<html>
 <head>
 {% include head.html %}
 </head>
@@ -101,7 +101,15 @@
         <div class="row">
             <div class="page-body" itemprop="description">
             {{ content }}
-            </div>    
+                <div>                
+                    {% if site.top %}
+
+                    <a href="#0" id="cd-top" class="cd-top">回到顶部</a>
+
+                    {% endif %}
+                </div>
+            </div>
+
         </div>
     </div>
 </div>
@@ -110,10 +118,6 @@
 
 {% include scripts.html %}  
 
-{% if site.top %}
 
-<a href="#0" id="cd-top" class="cd-top">回到顶部</a>
-
-{% endif %}    
 </body>
 </html>

@@ -2,11 +2,28 @@
 layout: page
 permalink: /documentation/
 title: Documentation
-description: "Instructions on how to install and customize the Westside."
+description: "Instructions on how to build and customize the Westside."
 tags: [XingE Ban, Boukyaku, 建站日志]
 image: 
   feature: default_bg1.jpg
 ---
+
+版本：♋ 1.5.2
+
+发布日期：2015-1-25 18：04
+
+更新详情：
+
+- 更改域名解析
+- 个性化完善
+- 修复其他已知Bug
+
+吐槽：所谓的“个性化完善”，看看Slidebar啥的就知道了吧。。。域名终于能正常访问，做网络性能分析的时候发现了原因并且成功解决，当在代码调试器里看到方法GET全绿时，真的高兴坏了o((>ω< ))o当然“返回顶部”按钮已经可以在所有页面下正常使用了。
+
+<figure>
+	<img src="{{ site.url }}/images/line_1 (2).jpg" alt="- - - - - - - -✂ - - - - - - - - - - - - - - - - - - - -">
+</figure>
+
 版本：♊ 1.4.5.2
 
 发布日期：2015-1-24 20：20

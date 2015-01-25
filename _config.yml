@@ -19,7 +19,7 @@ fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
-url:       		    /Westside
+url:       		    /
 baseurl:          /
 
 # Owner/author information
@@ -50,17 +50,17 @@ cnzz: true
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: 主页
+  - title: 主页 / Home
     url: /
     external: false
     icon: home
-  - title: 更新
+  - title: 更新 / Documentation
     url: /documentation
-  - title: 分类
+  - title: 分类 / Categories
     url: /categories
-  - title: 标签
+  - title: 标签 / Tags
     url: /tags
-  - title: 关于
+  - title: 关于 / About
     url: /xinge-ban
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -90,7 +90,7 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://boukyaku.github.io/'
+  siteurl: 'http://xinge-ban.net/'
   relativeLinks: 'http://boukyaku.github.io/links.jsonp'
   media: 'images'
   metadata:
@@ -202,3 +202,5 @@ prose:
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+
+# 白羊【♈】 金牛【♉】 双子【♊】 巨蟹【♋】 狮子【♌】 处女【♍】 天秤【♎】 天蝎【♏】 射手【♐】 摩羯【♑】 水瓶【♒】 双鱼【♓】

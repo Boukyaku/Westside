@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop初级教程（一）"
+title: "Photoshop初级教程-工具篇(一)"
 description: "初识Photoshop"
 category: 分享
 tags: [Photoshop, 教程, 设计]
@@ -14,66 +14,50 @@ share: true
 **1.	了解Photoshop及基本概念；**
 
 **2.	学会新建文件和保存文件，学会设置参考线。**
-  
-  
-# **(一)	安装** #
 
-**Step 1** -优先必须断网，并且保证你的Host文件不存在以下内容：
-  
-•	127.0.0.1 lmlicenses.wip4.adobe.com
+> 2015.01.27 更新  
 
-•	127.0.0.1 lm.licenses.adobe.com
+## **1.	安装** ##
 
-如果有，清除后保存。同时，为了保证激活顺利，关于Adobe的Host记录建议都先删除。
-
-另外如果你曾经安装过其他版本的Adobe软件，请彻底删除以下文件夹。
-
-C:\Program Files (x86)\Common Files\Adobe\SLCache
-
-C:\ProgramData\Adobe\SLStore
-
-**Step 2** -安装Adobe CC 2014软件，因为是断网下要求激活，要求登陆Adobe账户，点击登陆后提示无法联网，选择稍后连接即可。确定协议后要求输入序列号，则使用Adobe CC 2014注册机算号输入进入下一步，继续提示联网失败，选择稍后连接。
-
-**Step 3** -选择路径，安装好软件后，选择立即启动软件，软件将提示需要登陆，此时请选择“连接Internet时是否出现问题？”，选择“脱机激活”-“生成请求代码”；
+请大家使用并购买正版Adobe Photoshop软件，这是官网上的价格：
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_1.gif"><img src="{{ site.url }}/images/PsI_1_1.gif"></a>
+	<a href="https://y6cvag.tuk.livefilestore.com/y2pNRGsTGrZ1KQeU7omYYVuuwrmUBn9-MW1SR2X7L6SEQBanhIL69Po0DbuEZ6jEZSfj4OMv5AscA-FVsd-gBzeLiMgV0HTPtK4mBBpMsNHcS4NV4OzfHzd3mNqw2GZJxCvkWTShQAsp4i8LW7vRfBeYw/PsI_1_1.jpg?psid=1"><img src="https://y6cvag.tuk.livefilestore.com/y2pNRGsTGrZ1KQeU7omYYVuuwrmUBn9-MW1SR2X7L6SEQBanhIL69Po0DbuEZ6jEZSfj4OMv5AscA-FVsd-gBzeLiMgV0HTPtK4mBBpMsNHcS4NV4OzfHzd3mNqw2GZJxCvkWTShQAsp4i8LW7vRfBeYw/PsI_1_1.jpg?psid=1"></a>
+	<figcaption>图片来自[Adobe官网](https://creative.adobe.com/plans "Adobe官网")</figcaption>
 </figure>
+
+
+大陆官网（可以用信用卡及支付宝付款）只能买到CS 6版本，然后可以升级至CC及以上版本。
+
+推荐使用[Creative Cloud 桌面应用程序](https://helpx.adobe.com/cn/creative-cloud/help/creative-cloud-desktop.html "Creative Cloud 桌面应用程序")来安装、更新或卸载<del>逗比</del>Adobe公司的所有应用程序，下面分别是Windows平台和Mac OS平台的该应用：
+
+<figure class="half">
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pah1aImCoi_kTYsLUdtdH6hFB2aJ4FwwsnjP4UlMrtBS3kAeF3cYTne8YRxgEGHM2m7NimzHy4ImbvT48j2IqWvKDAzQ17GKIXTA0RCWrXwQTCIan0P3zIwoOoWn6fC-Fz4gH2KwOsZ3bt1HUmVl1nA/PsI_1_2.jpg?psid=1">
+	<img src="https://helpx.adobe.com/tw/creative-cloud/help/install-apps/_jcr_content/main-pars/image_0.img.png/Desktop-02_1416824468663.png">
+	<figcaption>右图来自[Adobe官网](https://helpx.adobe.com/tw/creative-cloud/help/install-apps)</figcaption>
+</figure>
+
+选择需要的应用后点“安装/试用”即自动完成下载安装步骤，这个速度看<del>人品</del>网络情况。面板中可“试用”的应用程序是在安装后有30天试用期，用户可以在30天内免费试用，试用期结束必须购买Creative Cloud 会员资格，也就是第一张图中的那个东西。
+
+输入正版序列号继续使用：
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_2.gif"><img src="{{ site.url }}/images/PsI_1_2.gif"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pFS0XTqUfsx7FkJ83FwEvQZoV76ZINCw1facWvFF4sZZNxNBKISK3zU5YgoBU8_YP9pCkm_5FrH8PQUGRxpaqYrGTid-0sR_F7t-2QdVa-nDXqLVjSxu-r8xEt15JWO0KUL67A0-gJ99G946HqrCstQ/PsI_1_4.jpg?psid=1">
 </figure>
+ 
+**再次提醒大家请保护知识产权、使用正版产品。**
 
-**Step 4** -将生产的脱机代码复制到注册机内，点击“GENERATE”生成响应代码，将响应代码复制到软件激活窗口，点击“激活”。
 
-<figure>
-	<a href="{{ site.url }}/images/PsI_1_3.gif"><img src="{{ site.url }}/images/PsI_1_3.gif"></a>
-</figure>
 
-**Step 5** -最后以管理员身份修改Host文件或者手动为你的Windows Host文件添加以下记录（务必确保你的Host文件存在以下记录，否则会激活失败）：
 
-•	127.0.0.1 lmlicenses.wip4.adobe.com
+## **2. 界面** ##
 
-•	127.0.0.1 lm.licenses.adobe.com
-
-•	127.0.0.1 na1r.services.adobe.com
-
-•	127.0.0.1 hlrcv.stage.adobe.com
-
-•	127.0.0.1 practivate.adobe.com
-
-•	127.0.0.1 activate.adobe.com
-
-至此，Adobe Photoshop CC 2014安装并激活完毕
-
-# **(二)	界面** #
-
-## 1.	面板 ##
+### **1)	面板** ###
 
 安装完毕后，打开Ps，就进入了Ps的操作界面，我们来看一下。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_4.png"><img src="{{ site.url }}/images/PsI_1_4.png"></a>
+	<a href="https://y6cvag.tuk.livefilestore.com/y2p9tGK58WHmb2Z8CIy7iJxjmw-D8guRsgwnoxk8Iggf6qq-0k7p5p5ebLR7XcIdkTeun6x04YSsMrU-g6yTfAgetxqbp2Ezm8aG-et8h4PMinC4Ba0wCeiuxtQgE4arYZh7Wpsjv_fqdh_szryJtXyeA/PsI_1_4.png?psid=1"><img src="https://y6cvag.tuk.livefilestore.com/y2p9tGK58WHmb2Z8CIy7iJxjmw-D8guRsgwnoxk8Iggf6qq-0k7p5p5ebLR7XcIdkTeun6x04YSsMrU-g6yTfAgetxqbp2Ezm8aG-et8h4PMinC4Ba0wCeiuxtQgE4arYZh7Wpsjv_fqdh_szryJtXyeA/PsI_1_4.png?psid=1"></a>
 </figure>
  
 最上面是菜单栏，文件，编辑，图像，等等。这里是一些基本操作选项，我们在实际的操作中会使用到，现在先不多说。
@@ -87,7 +71,7 @@ C:\ProgramData\Adobe\SLStore
 有些工具的右下角还有一个三角，就表示这是一个组合工具，这里还有其他的工具。用鼠标长按这个三角或者单击右键，就会把这里包含的工具都显示出来。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_5.jpg"><img src="{{ site.url }}/images/PsI_1_5.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pEVD60uU4BV8Ah8WLGOC6y65OemdDt8ltJpoHQd8OVZ4S816gU8RDn_zoWmERQkb_rRAQtmylrxpliSway23s-dn32qt8sr5eEVMdgEqEC2iqyE1lyT-2PMbT2MgzQglKzRiaKoAWz5geEDnUV6J4UQ/PsI_1_5.jpg?psid=1">
 </figure>
  
 右边是一些活动面板，包括图层、历史记录等等。这里的面板都可以最小化或者关闭。
@@ -97,7 +81,7 @@ C:\ProgramData\Adobe\SLStore
 如果什么面板找不到了，都可以去“窗口”这里找，在这里点一下，就打开了。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_6.jpg"><img src="{{ site.url }}/images/PsI_1_6.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pcZD8gRuRvgYeytiLSAys2SPwL_ns0Bq_lNDSPa1DTh8Bojee8x_brVFTGZrFDqDKMdkfMoIIrQvTnerroFkiOR3CjHNXUvROvu0Pzmy7gKzNTnwfJJiqfz2ZQ8zYbjdCJ47ur07MUpJA5RF0xLnl0g/PsI_1_6.jpg?psid=1">
 </figure>
  
 这些活动面板都可以随意拖动，你可以将他们拖到屏幕上任何的位置。
@@ -105,7 +89,7 @@ C:\ProgramData\Adobe\SLStore
 这样做的话，时间久了，可能屏幕上会变得很乱，我们可以通过一个操作迅速将面板排列到Ps的默认设置。可以在右上角的工作区处选择“复位基本功能”，所有的面板都排列整齐了，恢复了默认的设置。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_7.jpg"><img src="{{ site.url }}/images/PsI_1_7.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pTt6m_iGbjjWCEceO7y0DKKxCDuHQ9D5XddEeocQAj5uTqF1-q2D61NaFLNJ4OAfKD9k8mZV705BpmEO1VTub6tX2emRamtH7C8N2Cu6PrDQd6y0P7YpB58DmTnPZnRvGFCphUgCBAD6a8VqlOSmjkw/PsI_1_7.jpg?psid=1">
 </figure>
  
 按住键盘上的Tab键，可以将所有的工具栏和面板隐藏，同时按住Shift和Tab键，可以隐藏右边的活动面板。
@@ -117,51 +101,52 @@ C:\ProgramData\Adobe\SLStore
 我们在作图的过程中，经常需要缩放图片的显示大小，移动图片的位置，导航器就实现这些功能。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_8.jpg"><img src="{{ site.url }}/images/PsI_1_8.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pDA50K078PmbNEGvnDjFq9yxN6cOxYip9iLoKZJENgCAdzrPPNKH4OQNI4lK6dqIh0-5zWYFIgS6FpPPXB_ePyHM-jQbip-Rsylpr5Q0cLs6OBzcqaqfEoAuraL0lWFONQAFk8WPErqmrp6tA6CgMEg/PsI_1_8.jpg?psid=1">
 </figure>
  
-文件的名称是自己随便写的。宽度和高度，根据你的实际需要设定。宽度和高度的单位可以是象素，也可以是”毫米厘米“等。分辨率，如果图片只是用于电脑上观看的，分辨率为72。如果图片要用于印刷的，分辨率为300。
+文件的名称是自己随便写的。宽度和高度，根据你的实际需要设定。宽度和高度的单位可以是象素，也可以是“毫米厘米”等。分辨率，如果图片只是用于电脑上观看的，分辨率为72。如果图片要用于印刷的，分辨率为300。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_9.jpg"><img src="{{ site.url }}/images/PsI_1_9.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pPQtaru_s3nezfmPdHkIWgZhDUEbkAU4t5havaE39xlKKb4LSmm4Y2NZPvB8AIdXl9N1YWoaxLOlYLM1v4qYLKPLMEWOKegPw03Z_3IVoS4eoUkC8x6zG6huD-m9rLo6KiA-IG0nLBBRXrE8IbYEgYw/PsI_1_9.jpg?psid=1">
 </figure>
  
-## 2.	参考线 ##
+### **2)	参考线** ###
 
-执行菜单上的“视图”－“新建参考线”。
+执行菜单上的“视图”>“新建参考线”。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_10.jpg"><img src="{{ site.url }}/images/PsI_1_10.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2p9ljb7gSD9vBn0YXjOlQkdQN68dk-XuZe2WmXG6pzBs0AHQvQy-Ya4H9oldWZ1g9pqtPF5JIajOYUkMj0HDPwkOzRQfFAcQhIEWUEYaz_dIxXj8tibIhuD-cqU3A-k6B2TlvnHyP-haLnWwWHQ5GnvA/PsI_1_10.jpg?psid=1">
 </figure>
 
 弹出新建参考线的命令框，设置参考线的位置。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_11.jpg"><img src="{{ site.url }}/images/PsI_1_11.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2pQwefttsPV6ezYLAJ1WGiMcba8d7yLAnG0xJuT4XgVeJo2t3C-xRFMgx_Q4lWRjdsr8NpVeXC49LB4uHJL35budR9qdOkNFDMqknpDXUQAjTMx3AlmAbSJckfL4HcHN6Oy2RVVD3R7C55mCrLKINprg/PsI_1_11.jpg?psid=1">
 </figure>
  
 这时候我们看到先前建立的空白文件左边多出了一条参考线
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_12.jpg"><img src="{{ site.url }}/images/PsI_1_12.jpg"></a>
+	<img src="https://y6cvag.tuk.livefilestore.com/y2p7ILgoZE4m5zAmvjeXmfU8_x-m5p5Zeeui2sMpYPHQJKGnnFyeazz2w6Y9mvjvxcj72VuB0jHJpTL9MhBp-IOgXXk5zoGO6x5C69WUkKVbPYSx1L_3MKSfbELSsb0FR_ErFQzVf3sRknjj2bqcMQ5mQ/PsI_1_12.jpg?psid=1">
 </figure>
  
 更简单的方法是直接鼠标在标尺里拖动就可以建立参考线了。
 
-“文件”－“打开”，在跳出的对话框中选择电脑中的文件，就可以打开了。
+“文件”>“打开”，在跳出的对话框中选择电脑中的文件，就可以打开了。
 
-要保存文件，按“文件”－“存储为”，跳出保存文件对话框。
+要保存文件，按“文件”>“存储为”，跳出保存文件对话框。
 
-在保存文件的时候，建议大家，将文件的格式保存为.psd的。因为.psd的文件能将图片的图层和各种设置完整保留，一旦以后需要修改这个图片，打开`.psd`文件修改即可。当然，用于印刷的文件，必须要保存为.jpg格式。.jpg的图片，不能保存图层和其他设置。
+在保存文件的时候，建议大家，将文件的格式保存为`.psd`的。因为`.psd`的文件能将图片的图层和各种设置完整保留，一旦以后需要修改这个图片，打开`.psd`文件修改即可。当然，用于印刷的文件，必须要保存为`.jpg`格式。`.jpg`的图片，不能保存图层和其他设置。
 
-## 3.	其他 ##
+### **3)	其他** ###
 
-### 1)	颜色模式: ###
+#### ①	颜色模式: ####
 
 颜色的实质是一种光波。它的存在是因为有三个实体：光线、被观察的对象以及观察者。
 
 <figure>
-	<a href="{{ site.url }}/images/PsI_1_13.gif"><img src="{{ site.url }}/images/PsI_1_13.gif"></a>
+	<a href="http://h.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=88e7f16a9a504fc2b652b85784b48c74/d01373f082025aaf03c603a9faedab64024f1adf.jpg"><img src="http://h.hiphotos.baidu.com/baike/c0%3Dbaike80%2C5%2C5%2C80%2C26/sign=88e7f16a9a504fc2b652b85784b48c74/d01373f082025aaf03c603a9faedab64024f1adf.jpg"></a>
+	<figcaption>图片来自百度百科</figcaption>
 </figure>
 
 人眼是把颜色当作由被观察对象吸收或者反射不同波长的光波形成的。例如，当在一个晴朗的日子里，我们看到阳光下的某物体呈现红色时，那是因为该物体吸收了其它波长的光，而把红色波长的光反射到我们人眼里的缘故。当然，我们人眼所能感受到的只是波长在可见光范围内的光波信号。当各种不同波长的光信号一同进入我们的眼睛的某一点时，我``们的视觉器官会将它们混合起来，作为一种颜色接受下来。同样我们在对图像进行颜色处理时，也要进行颜色的混合，但我们要遵循一定的规则，即我们是在不同颜色模式下对颜色进行处理的。
@@ -202,11 +187,8 @@ Lab颜色是由RGB三基色转换而来的，它是由RGB模式转换为HSB模�
 
 多通道模式对有特殊打印要求的图像非常有用。例如，如果图像中只使用了一两种或两三种颜色时，使用多通道模式可以减少印刷成本并保证图像颜色的正确输出。 6. 8位/16位通道模式 在灰度RGB或CMYK模式下，可以使用16位通道来代替默认的8位通道。根据默认情况，8位通道中包含256个色阶，如果增到16位，每个通道的色阶数量为65536个，这样能得到更多的色彩细节。Photoshop可以识别和输入16位通道的图像，但对于这种图像限制很多，所有的滤镜都不能使用，另外16位通道模式的图像不能被印刷。
 
-<p style="text-align: right;font-size:10px">
-	以上来自于<a href="http://baike.baidu.com/view/1139658.htm?fr=aladdin">http://baike.baidu.com/view/1139658.htm?fr=aladdin</a>
-</p>
 
-### 2)	常用图片格式 ###
+#### ②	常用图片格式： ####
 
 Ps默认保存的图片格式是`.psd`，这个格式可以保存所有的图层和相关设置，建议大家作图时都要保留`.psd`文件，以后修改起来就很方便。
 .bmp文件，一种无压缩的图片格式，一般都比较大。
@@ -375,5 +357,9 @@ RAW中文解释是“原材料”或“未经处理的东西”。RAW文件包�
 
 RAW有一个明显的弊端：随着照相机牌子和型号的不同，它们输出的RAW格式也不同。用户在处理RAW格式图片的时候必须使用厂家提供的专门软件。这为图像处理带来了诸多不便。此外，相对于JPEG和TIFF格式的图片，打开和处理RAW文件要耗费更多的时间。为了解决这个问题，有的数码相机可以让用户拍摄照片的时候同时以RAW与JPEG格式储存照片。随着照相机图像处理速度越来越快，记忆卡容量越来越大而且越来越便宜，上述的做法将不再麻烦了。同时记录JPEG和RAW格式照片，可以让用户使用常规的图像处理软件组织和编辑照片（JPEG）；当需要获得处理精细的照片或需要改善照片缺憾（如白平衡不正确和高光/暗部细节缺失 ）的时候， 用户可以使用RAW解决问题。除此以外，越来越多第三方软件制造商制造一些兼容性强的图像处理软件，让多个品牌、多个型号的照相机都能使用同一个软件处理其输出的RAW照片，解决RAW的兼容性问题。Adobe Photoshop CC 2014就是其中一个例子。然而，Adobe Photoshop CC 2014并不能像厂家的专门软件那样，提供全面的RAW处理设定。兼容性不够强仍然是限制RAW格式发展的最大障碍。
 
-<p style="text-align: right;font-size:10px">以上来自于<a href="http://baike.baidu.com/view/19666.htm?fr=aladdin">http://baike.baidu.com/view/19666.htm?fr=aladdin</a></p>
 
+*本文以Windows 8.1 x64下Adobe Photoshop CC 2014.0.0为例*
+
+> ### **参考资料：** ###
+> 1.	[百度百科-图片格式](http://baike.baidu.com/view/19666.htm?fr=aladdin "百度百科-图片格式")
+> 2.	[百度百科-颜色模式](http://baike.baidu.com/view/1139658.htm?fr=aladdin "百度百科-颜色模式")

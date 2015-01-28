@@ -298,7 +298,7 @@ Photoshop将文字以独立图层的形式存放，输入文字后将会自动�
 
 <figure>
 	<a href="https://y6cvag.tuk.livefilestore.com/y2phCN9wxIQ6IK0Zm3muTLDruP-BvP9WV3SFCGxYlnJmxSz50ISa-R2p25KvMzydo-ROkw_4C9N89taonKOD-DEF9oGMwomt-tAJgdyaJ1C9wQPuSuur4e2IXSSMyOn7ePdqzx4U2MIzQx2-QIvBVvT_A/PsI_6_48.jpg?psid=1"><img src="https://y6cvag.tuk.livefilestore.com/y2phCN9wxIQ6IK0Zm3muTLDruP-BvP9WV3SFCGxYlnJmxSz50ISa-R2p25KvMzydo-ROkw_4C9N89taonKOD-DEF9oGMwomt-tAJgdyaJ1C9wQPuSuur4e2IXSSMyOn7ePdqzx4U2MIzQx2-QIvBVvT_A/PsI_6_48.jpg?psid=1"></a>
-	<figcaption>本例素材来自[搜学吧](http://www.souxue8.com/Article/psjiaocheng/psjichu/201209/13287.html "搜学吧")</figcaption>
+	<figcaption>本例素材来自<a href="http://www.souxue8.com/Article/psjiaocheng/psjichu/201209/13287.html">搜学吧</a></figcaption>
 </figure>
  
 ### 3)	颜色取样器工具 ###

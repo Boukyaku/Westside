@@ -278,7 +278,7 @@ CS 6以后增加功能，该功能只需选择图像场景中的某个物体，�
 
 <figure>
 	<a href="https://y6cvag.tuk.livefilestore.com/y2prxXy9mGZ_b3gjd4IwkGLNGrRz_Rc1C6kQvPv6O3tPm3hTlxbmtZRdRaILZP4iZdgIGgn-lsh0njIRDqgf0FnikoA_BN32bt_YiW_4n7-nBoWORMAQRA8ImlGMdjUX2PBv6rXoH97sFeD8b-Yk05ucA/PsI_3_27.jpg?psid=1"><img src="https://y6cvag.tuk.livefilestore.com/y2prxXy9mGZ_b3gjd4IwkGLNGrRz_Rc1C6kQvPv6O3tPm3hTlxbmtZRdRaILZP4iZdgIGgn-lsh0njIRDqgf0FnikoA_BN32bt_YiW_4n7-nBoWORMAQRA8ImlGMdjUX2PBv6rXoH97sFeD8b-Yk05ucA/PsI_3_27.jpg?psid=1"></a>
-	<figcaption>本例素材来自[昵图网](http://www.nipic.com/ "昵图网")</figcaption>
+	<figcaption>本例素材来自<a href="http://www.nipic.com">昵图网</a></figcaption>
 </figure>
 
 还有网上常见的恶搞换脸照片也可以用这个工具做出来，操作方法相同，在此就不再赘述了（其实我是懒。。。）

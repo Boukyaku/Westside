@@ -49,7 +49,7 @@ share: true
 
  <figure>
 	<img src="https://y6cvag.tuk.livefilestore.com/y2p8w8ki8OtJ2-SwvkB29YiIiLBXUCZd6Wahq8QU0XUmJykHqESHJHZbnr6lCq7nws1H_eOHr1YQmzmWpAY7UxHjg1eGKu0DHm4RSK4Adn-3PLXnuG9zStUVKG_NWDq6vo4u9B30_tNIJS-kb9lVeuOWw/PsI_4_4.jpg?psid=1">
-	<figcaption>本例素材来自[时光网](https://creative.adobe.com/plans "时光网")</figcaption>
+	<figcaption>本例素材来自<a href="http://img31.mtime.cn/pi/2014/06/18/161824.80667757_1000X1000.jpg">时光网</a></figcaption>
 </figure>
  
 ## 2.	模糊锐化工具 ##

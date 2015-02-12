@@ -370,6 +370,7 @@ Photoshop将文字以独立图层的形式存放，输入文字后将会自动�
 工具篇共6章，现已制成PDF文档共享在度娘云，传送门：[http://pan.baidu.com/s/1bn8NM1p](http://pan.baidu.com/s/1bn8NM1p "http://pan.baidu.com/s/1bn8NM1p") 密码：8r0m
 
 > ### 参考资料： ###
-> 1.	[天极网-体验Photoshop CS5混合器画笔工具魔力](http://design.yesky.com/photoshop/110/11332610.shtml "天极网-体验Photoshop CS5混合器画笔工具魔力")
+> 1.	[搜学吧-Photoshop CS6工具箱钢笔工具使用讲解实例教程](http://www.souxue8.com/Article/psjiaocheng/psjichu/201210/13408.html "搜学吧-Photoshop CS6工具箱钢笔工具使用讲解实例教程")
+> 2.	[飞特网-PS形状工具简介](http://www.fevte.com/tutorial-22592-1.html "飞特网-PS形状工具简介")
 > 
 > 文中部分未注明素材均来自互联网，并无法获知版权信息，若侵权请原作者联系更换。

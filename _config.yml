@@ -1,5 +1,5 @@
 title:            Westside
-description:      可惜没如果
+description:      本场考试已结束 请各位考生停止答题
 logo:             logo.png
 duoshuo_shortname: xinge-ban
 # Assign a default image for your site's header and footer
@@ -20,12 +20,12 @@ fin_color:        "255,255,255"
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
 url:       		    "http://xinge-ban.net/"
-baseurl:          /
+baseurl:          
 
 # Owner/author information
 owner:
   name:           XingE Ban
-  avatar:         XingEBan.jpg
+  avatar:         XingEBan.png
   email:          XingE.Ban@live.cn
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    正在成为UI设计师的路上，同时也在学习关于UX的一切。偶尔会躲起来发呆、吃东西，最近吐槽越来越少，想要长胖，喜欢听音乐，射手座。
@@ -51,7 +51,7 @@ cnzz: true
 # For external links add external: true
 links:
   - title: 主页 / Home
-    url: /
+    url: 
     external: false
     icon: home
   - title: 更新 / Documentation

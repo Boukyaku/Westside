@@ -2,7 +2,7 @@
 layout: post
 title: "产品细节中的情感化设计"
 description: "细节 情感化"
-category: 搬运
+category: link
 tags: [UX, 设计, 搬运]
 comments: true
 link: http://isux.tencent.com/emotional-design-details.html

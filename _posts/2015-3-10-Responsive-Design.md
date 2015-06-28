@@ -2,7 +2,7 @@
 layout: post
 title: "再谈响应式设计"
 description: "布局与趋势"
-category: 分享
+category: share
 tags: [UX, UI, 设计]
 imagefeature: default_bg1.jpg
 comments: true

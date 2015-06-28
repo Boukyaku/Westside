@@ -2,7 +2,7 @@
 layout: post
 title: "Photoshop初级教程 - 七"
 description: "Ps图层的概念与怎么使用图层"
-category: 分享
+category: share
 tags: [Photoshop, 教程, 设计]
 imagefeature: default_bg1.jpg
 comments: true

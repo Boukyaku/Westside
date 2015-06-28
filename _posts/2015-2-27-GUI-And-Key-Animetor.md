@@ -2,7 +2,7 @@
 layout: post
 title: "原画虐身 UI虐心"
 description: "为什么会有「画画的不喜欢画游戏UI」的说法呢？"
-category: 搬运
+category: link
 tags: [UI， 吐槽， 搬运]
 comments: true
 link: http://www.zhihu.com/question/28336023#answer-11561748

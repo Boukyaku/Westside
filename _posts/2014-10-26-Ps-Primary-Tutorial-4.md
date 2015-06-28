@@ -2,7 +2,7 @@
 layout: post
 title: "Photoshop初级教程-工具篇(四)"
 description: "橡皮擦工具、模糊锐化工具、减淡加深工具的使用"
-category: 分享
+category: share
 tags: [Photoshop, 教程, 设计]
 imagefeature: default_bg1.jpg
 comments: true

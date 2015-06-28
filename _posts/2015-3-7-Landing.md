@@ -3,7 +3,7 @@ layout: post
 type: status
 title: "那些你很冒险的梦"
 description: "  "
-category: 状态
+category: status
 tags: [状态]
 imagefeature: default_bg.jpg
 comments: true

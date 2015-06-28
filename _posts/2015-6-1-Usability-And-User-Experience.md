@@ -2,7 +2,7 @@
 layout: post
 title: "感性设计与理性设计"
 description: "理性和感性的设计应该是指设计过程和方法，而不是设计结果"
-category: 分享
+category: share
 tags: [UX, UI]
 imagefeature: default_bg1.jpg
 comments: true

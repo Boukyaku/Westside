@@ -2,7 +2,7 @@
 layout: post
 title: "响应式设计"
 description: "响应式Web设计与APP开发"
-category: 分享
+category: share
 tags: [UX, 设计]
 imagefeature: default_bg1.jpg
 comments: true

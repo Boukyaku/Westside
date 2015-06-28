@@ -4,7 +4,7 @@ type: quote
 title: "時をかける少女 (2010)"
 description: 
 headline: 
-category: 有情
+category: quotation
 tags: [言论]
 imagefeature: Tokiokakerushojo.jpg
 comments: true

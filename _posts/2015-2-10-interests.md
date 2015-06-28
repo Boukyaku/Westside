@@ -3,7 +3,7 @@ layout: post
 type: status
 title: "职业与兴趣"
 description: "兴趣不是全部"
-category: 状态
+category: status
 tags: [状态]
 imagefeature: default_bg.jpg
 comments: true

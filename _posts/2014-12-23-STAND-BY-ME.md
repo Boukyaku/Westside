@@ -2,7 +2,7 @@
 layout: post
 title: "STAND BY ME"
 description: "假如你从未来过我的世界"
-category: 如烟
+category: personal 
 tags: [如烟, 哆啦A梦]
 imagefeature: standbyme.jpg
 comments: true

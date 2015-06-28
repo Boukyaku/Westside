@@ -2,7 +2,7 @@
 layout: post
 title: "Photoshop初级教程-工具篇(完结)"
 description: "钢笔工具、路径工具、文字工具、辅助工具等的使用"
-category: 分享
+category: share
 tags: [Photoshop, 教程, 设计]
 imagefeature: default_bg1.jpg
 comments: true

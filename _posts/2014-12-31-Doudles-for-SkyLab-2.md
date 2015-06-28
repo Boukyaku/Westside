@@ -3,7 +3,7 @@ layout: post
 type: photo
 title: "Doudles for SkyLab（二）"
 description: "2014收官"
-category: 相册
+category: gallery
 tags: [SkyLab, 图片, 相册, 作品]
 imagefeature: SkyLab2014_Wallpaper_5.jpg
 comments: true

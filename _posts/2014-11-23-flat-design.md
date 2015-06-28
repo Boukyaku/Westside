@@ -2,7 +2,7 @@
 layout: post
 title: "了解扁平化设计"
 description: "视觉 交互 原则 灵魂"
-category: 分享
+category: share
 tags: [UX, UI, 设计]
 imagefeature: default_bg1.jpg
 comments: true

@@ -2,7 +2,7 @@
 layout: post
 title: "Photoshop初级教程-工具篇(三)"
 description: "裁剪工具、修复画笔工具、图章工具的使用"
-category: 分享
+category: share
 tags: [Photoshop, 教程, 设计]
 imagefeature: default_bg1.jpg
 comments: true

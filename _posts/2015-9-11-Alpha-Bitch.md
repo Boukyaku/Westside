@@ -5,7 +5,7 @@ title: "公主病"
 description: "Alpha Bitch"
 category: status
 tags: [状态]
-imagefeature: p453295609.jpg
+imagefeature: default_bg1.jpg
 comments: true
 mathjax: 
 ---

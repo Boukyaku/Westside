@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Photoshop初级教程-工具篇(完结)"
+title: "Photoshop初级教程-六"
 description: "钢笔工具、路径工具、文字工具、辅助工具等的使用"
 category: share
 tags: [Photoshop, 教程, 设计]
@@ -365,9 +365,6 @@ Photoshop将文字以独立图层的形式存放，输入文字后将会自动�
 
 *本文以Windows 8.1 x64下Adobe Photoshop CC 2014.0.0为例*
 
-至此，我们已经将Ps的基本工具都学完了。下一篇章，我们将学习图层、蒙版等的具体操作，它们均是Ps中最基础也最重要的概念。掌握了这些工具的基本运用，今后学习进阶内容就更加容易上手了。
-
-工具篇共6章，现已制成PDF文档共享在度娘云，传送门：[http://pan.baidu.com/s/1bn8NM1p](http://pan.baidu.com/s/1bn8NM1p "http://pan.baidu.com/s/1bn8NM1p") 密码：8r0m
 
 > ### 参考资料： ###
 > 1.	[搜学吧-Photoshop CS6工具箱钢笔工具使用讲解实例教程](http://www.souxue8.com/Article/psjiaocheng/psjichu/201210/13408.html "搜学吧-Photoshop CS6工具箱钢笔工具使用讲解实例教程")
